@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">WheatherCheck</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_help">Help</string>
+    <string name="current_label">Current</string>
+    <string name="next_4_days_hourly">Next 4 Days/Hourly</string>
+    <string name="humidity_label">Humidity</string>
+    <string name="wind_label">Wind</string>
+    <string name="next_15_days_label">Next 15 days</string>
+
+    <string name="title_weather_details">Weather Details</string>
+    <string name="day">Day</string>
+    <string name="temp">Temp</string>
+    <string name="mintemp">MinTemp</string>
+    <string name="maxtemp">MaxTemp</string>
+    <string name="weather_type">Weather Type</string>
+
+    <string name="wind">Wind</string>
+    <string name="humidity">Humidity</string>
+    <string name="temperature">Temperature</string>
+    <string name="city_name">City Name</string>
+
+
+</resources>
